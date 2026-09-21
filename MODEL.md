@@ -26,6 +26,7 @@ flat top is joined to zero by a C<sup>∞</sup> transition. Window chosen just t
 $$
 t(u)=\frac{1}{1+e^{\left(\frac{1}{u}-\frac{1}{1-u}\right)}}
 $$
+
 with $0<u<1$, $t(0)=0$ and $t(1)=1$
 
 
