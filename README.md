@@ -112,8 +112,6 @@ This is the **raw** information on one component in isolation. It ignores degene
 
 ## Summary
 
-### The numbers
-
 δ<sub>50</sub>, δ<sub>90</sub>, δ<sub>99</sub> are the optical path differences
 inside which 50%, 90% and 99% of the cumulative information is collected, on the sample grid
 dδ = 0.005 cm, δ<sub>max</sub> = 1 cm. Units are Jy sr⁻¹ × cm⁻¹ and
