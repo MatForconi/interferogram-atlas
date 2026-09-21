@@ -19,7 +19,9 @@ phase. The detector is a square-law device, and different wavenumbers are
 mutually incoherent, so their powers simply add. Dropping the δ-independent
 term leaves the whole measurement equation of an FTS:
 
-$$I(\delta) \;=\; \int_0^\infty S(\nu)\,\cos(2\pi\nu\delta)\,\mathrm{d}\nu$$
+$$
+I(\delta) = \int_0^\infty S(\nu)\,\cos(2\pi\nu\delta)\mathrm{d}\nu
+$$
 
 Three consequences are used over and over below:
 
@@ -68,9 +70,11 @@ horizontal line in *both* spaces; only the level changes.
 
 The two noises are related by:
 
-$$\sigma_\nu = \sqrt{2N}\,\mathrm{d}\delta\,\sigma_\delta
+$$
+\sigma_\nu = \sqrt{2N}\mathrm{d}\delta\sigma_\delta
   \qquad\Longleftrightarrow\qquad
-  \sigma_\delta = \frac{\sigma_\nu}{\mathrm{d}\delta\sqrt{2N}}$$
+  \sigma_\delta = \frac{\sigma_\nu}{\mathrm{d}\delta\sqrt{2N}}
+  $$
 
 With dδ = 0.005 cm and N = 401 that turns 1 Jy sr⁻¹ per channel into
 **σ<sub>δ</sub> = 7.06 per OPD sample**. Where a curve drops below the line,
