@@ -20,7 +20,7 @@ mutually incoherent, so their powers simply add. Dropping the δ-independent
 term leaves the whole measurement equation of an FTS:
 
 $$
-I(\delta) = \int_0^\infty S(\nu)\,\cos(2\pi\nu\delta)\mathrm{d}\nu
+I(\delta) = \int_0^\infty S(\nu)\cos(2\pi\nu\delta)\mathrm{d}\nu
 $$
 
 Three consequences are used over and over below:
