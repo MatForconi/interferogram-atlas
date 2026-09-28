@@ -1,6 +1,6 @@
 # The sky in interferogram space
 
-**v0.1 — 2026-09-21**
+**v0.2 — 2026-09-28**
 
 A collection of how the spectra looks like to a Fourier-transform spectrometer.
 
