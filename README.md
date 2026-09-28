@@ -4,7 +4,7 @@
 
 A collection of how the spectra looks like to a Fourier-transform spectrometer.
 
- **The figures live in [`figures/`](figures/)**, six directories each with its own description.
+ **The figures live in [`figures/`](figures/)**, seven directories each with its own description.
 
 There is no code in this repository. See [MODEL.md](MODEL.md) for what went into the plots.
 
@@ -49,6 +49,7 @@ Everything is done in **wavenumber**, ν in cm⁻¹, not in GHz. Frequencies are
 | 4 | [`figures/03-sz/`](figures/03-sz/) | the SZ family, and the SZ total |
 | 5 | [`figures/04-foregrounds/`](figures/04-foregrounds/) | the six foregrounds, and the total foreground |
 | 6 | [`figures/05-totals/`](figures/05-totals/) | the total sky |
+| 7 | [`figures/06-co-isotopologues/`](figures/06-co-isotopologues/) | the CO ladders on a 115.27/8 GHz channel grid, and how much the isotopologues leak |
 
 ---
 After the band figure and the two overview figures, **every component gets the
